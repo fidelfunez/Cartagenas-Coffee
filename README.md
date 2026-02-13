@@ -1,8 +1,8 @@
 # Cartagena's Coffee - Premium Honduran Coffee Website
 
-A beautiful, modern website for Cartagena's Coffee featuring premium organic Honduran coffee and artisanal cold brews.
+A beautiful, modern website for Cartagena's Coffee featuring premium organic Honduran coffee and artisanal cold brews. ☕️
 
-## 🚀 Features
+## Features
 
 - **Modern Design**: Black and gold color scheme with glassmorphism effects
 - **Responsive Layout**: Optimized for all devices and screen sizes
@@ -11,7 +11,7 @@ A beautiful, modern website for Cartagena's Coffee featuring premium organic Hon
 - **Performance**: Next.js 14 with App Router for optimal performance
 - **Dark Mode**: Optimized for dark theme preferences
 
-## 🛠 Tech Stack
+## Tech Stack/Tools
 
 - **Framework**: Next.js 14 with App Router
 - **Styling**: Tailwind CSS with custom color palette
@@ -20,7 +20,7 @@ A beautiful, modern website for Cartagena's Coffee featuring premium organic Hon
 - **Icons**: Lucide React
 - **Language**: TypeScript
 
-## 🎨 Design Features
+## Design Features
 
 - **Color Palette**: 
   - Coffee Black (#1a1a1a)
@@ -40,7 +40,7 @@ A beautiful, modern website for Cartagena's Coffee featuring premium organic Hon
   - Floating elements
   - Hover transformations
 
-## 📱 Sections
+## Sections
 
 1. **Hero Section**: Stunning introduction with coffee farm imagery
 2. **Our Story**: Family heritage and Honduran connection
@@ -50,7 +50,7 @@ A beautiful, modern website for Cartagena's Coffee featuring premium organic Hon
 4. **Contact**: Contact form and business information
 5. **Footer**: Company branding and copyright
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Install Dependencies**:
    ```bash
@@ -83,21 +83,21 @@ A beautiful, modern website for Cartagena's Coffee featuring premium organic Hon
    - Set publish directory: `.next`
    - Deploy!
 
-## 🎯 Key Features Implemented
+## Key Features Implemented
 
-- ✅ Responsive navigation with glassmorphism
-- ✅ Hero section with background image and animations
-- ✅ Company story section with image and text
-- ✅ Product showcase for organic coffee
-- ✅ Cold brew collection grid
-- ✅ Contact form with glassmorphism styling
-- ✅ Footer with company branding
-- ✅ Smooth scroll animations
-- ✅ Mobile-first responsive design
-- ✅ SEO optimization
-- ✅ Performance optimization
+- Responsive navigation with glassmorphism
+- Hero section with background image and animations
+- Company story section with image and text
+- Product showcase for organic coffee
+- Cold brew collection grid
+- Contact form with glassmorphism styling
+- Footer with company branding
+- Smooth scroll animations
+- Mobile-first responsive design
+- SEO optimization
+- Performance optimization
 
-## 🎨 Customization
+## Customization
 
 The website is built with modularity in mind. You can easily:
 
@@ -107,14 +107,14 @@ The website is built with modularity in mind. You can easily:
 - Customize animations in the motion components
 - Update images by replacing the Unsplash URLs
 
-## 📞 Contact Information
+## Contact Information
 
 For questions about this website or Cartagena's Coffee:
 
-- **Phone**: +1 (555) 123-4567
+- **Phone**: +1 (346) 799-8710
 - **Email**: orders@cartagenascoffee.com
 - **Location**: Honduras & United States
 
 ---
 
-Built with 🤎 for Cartagena's Coffee - Premium Honduran Coffee Experience
+Built with 🤎 for Cartagena's Coffee - Premium Honduran Coffee Experience!
