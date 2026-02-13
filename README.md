@@ -1,6 +1,6 @@
-# Cartagena's Coffee - Premium Honduran Coffee Website
+# Cartagena's Coffee - Premium Honduran Coffee Website ☕️
 
-A beautiful, modern website for Cartagena's Coffee featuring premium organic Honduran coffee and artisanal cold brews. ☕️
+A beautiful, modern website for Cartagena's Coffee featuring premium organic Honduran coffee and artisanal cold brews.
 
 ## Features
 
